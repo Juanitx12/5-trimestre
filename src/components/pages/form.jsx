@@ -1,7 +1,7 @@
 import React from "react";
-import { Forms } from "../layouts/forms";
+import { FormLogin } from "../layouts/FormLogin/FormLogin";
 export const Form = () =>{
     return(
-        <Forms/>
+        <FormLogin/>
     )
 }

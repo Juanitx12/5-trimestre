@@ -1,8 +1,8 @@
 import React from 'react'
-import { Registers } from '../layouts/registers'
+import { FormRegister } from '../layouts/FormRegister/FormRegister'
 
 export const Register = () => {
   return (
-   <Registers/> 
+  <FormRegister/> 
   )
 }
